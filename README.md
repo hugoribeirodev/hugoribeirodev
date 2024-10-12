@@ -1,6 +1,6 @@
 # Hugo Ribeiro De Sousa - Software Developer
 <br>
-👋 Olá! Bem-vindo.<br><br>Me chamo Hugo Ribeiro e sou desenvolvedor web em formação, focado em criar soluções com impacto social. Estudo HTML, CSS, JavaScript, Java e Python, sempre em busca de novos aprendizados.<br><br>💻 Atualmente estudo Desenvolvimento Web com Java e o Spring Framework. ⚙️<br><br>Sinta-se à vontade para explorar meus projetos. Estou aberto a colaborar em novas ideias!✨
+👋 Olá! Bem-vindo.<br><br>Me chamo Hugo Ribeiro e sou desenvolvedor web em formação, focado em criar soluções com impacto social. Sempre em busca de novos aprendizados.<br><br>💻 Atualmente estudo Desenvolvimento Web com Java e o Spring Framework. ⚙️<br><br>Sinta-se à vontade para explorar meus projetos. Estou aberto a colaborar em novas ideias!✨
 
 <br>
 
