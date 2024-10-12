@@ -1,4 +1,5 @@
-# 💫 Sobre Mim:
+# 💫 Hugo Ribeiro De Sousa:
+
 👋 Olá! Bem-vindo ao meu perfil.<br>Me chamo Hugo Ribeiro e sou desenvolvedor web em formação, focado em criar soluções com impacto social. Estudo HTML, CSS, JavaScript, Java e Python, sempre em busca de novos aprendizados.<br><br>💻 Atualmente estudo Desenvolvimento Web com Java e o Spring Framework. ⚙️<br><br>Sinta-se à vontade para explorar meus projetos. Estou aberto a colaborar em novas ideias!✨
 
 
